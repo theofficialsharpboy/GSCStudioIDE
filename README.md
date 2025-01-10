@@ -1,6 +1,8 @@
 # GSCStudio: The Ultimate IDE for GSC Game Script Coding
-
 GSCStudio is a feature-packed Integrated Development Environment (IDE) specifically designed for Game Script Code (GSC). Whether you're a beginner or an experienced developer, GSCStudio offers all the tools and features needed to make GSC scripting easier, more efficient, and more powerful.
+
+[Download latest version](https://thesharpboy.com/apps/GSCStudio/gscstudio.setup.zip)
+[Visit Website](https://thesharpboy.com/forums/index?p=viewpost&id=15&topic=8)
 
 ## Key Features:
 
@@ -35,5 +37,3 @@ Gain a deeper understanding of your code with the built-in GSC Code Object Brows
 ![Alt text](https://thesharpboy.com/apps/GSCStudio/pics/errors.png)
 
 GSCStudio is the all-in-one IDE that streamlines GSC game script development. With a combination of powerful features and a user-friendly interface, it’s the perfect tool for developers aiming to take their GSC scripting skills to the next level.
-
-[Download latest version](https://thesharpboy.com/apps/GSCStudio/gscstudio.setup.zip)
